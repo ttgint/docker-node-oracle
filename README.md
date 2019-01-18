@@ -1,4 +1,4 @@
-# ttgint/docker-node-oracle
+# ttgint/node-oracle
 
 Docker image to be used for building a container ready with Oracle instant client binaries and all necessary environment variables needed to use [node-oracledb](https://github.com/oracle/node-oracledb)
 
@@ -7,7 +7,7 @@ Docker image to be used for building a container ready with Oracle instant clien
 Within your Dockerfile:
 
 ```
-FROM ttgint/docker-node-oracle
+FROM ttgint/node-oracle
 ```
 
 ## Acknowledgment
